@@ -1,5 +1,5 @@
 export const profileImg =
-  "https://media.licdn.com/dms/image/v2/D4D03AQGD0ztaweCjHw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699791670268?e=1731542400&v=beta&t=EB-xa4MqCdq6xG_SdPaSyAS_ivoBhLf-ArEzAW9L5D4";
+  "/assets/images/app_profile_image.jpg";
 
 export const targetImg = "/assets/images/target.svg";
 
